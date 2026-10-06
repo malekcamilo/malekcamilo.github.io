@@ -6,9 +6,9 @@
   --ink: #0f172a;
   --body: #334155;
   --muted: #64748b;
-  --accent: #059669;
-  --accent-hover: #047857;
-  --accent-bg: #ecfdf5;
+  --accent: #2b5f9e;
+  --accent-hover: #224d82;
+  --accent-bg: #edf3fa;
   --paper: #f8fafc;
   --card: #ffffff;
   --line: #e2e8f0;
@@ -94,8 +94,8 @@ a:focus-visible, button:focus-visible {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 10% 90%, rgba(5, 150, 105, 0.15) 0%, transparent 50%),
-    radial-gradient(circle at 90% 10%, rgba(14, 165, 233, 0.1) 0%, transparent 50%);
+    radial-gradient(circle at 10% 90%, rgba(43, 95, 158, 0.18) 0%, transparent 50%),
+    radial-gradient(circle at 90% 10%, rgba(148, 163, 184, 0.08) 0%, transparent 50%);
   pointer-events: none;
 }
 .hero-inner {
